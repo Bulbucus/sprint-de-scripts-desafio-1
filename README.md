@@ -1,4 +1,4 @@
-# Sprint de Scripts - Desafio 2
+# Sprint de Scripts - Desafio 1
 
 Neste desafio o formando tem de criar usando Python multiplos ficheiros em que todos juntos formem a nome do formando com os ficheiros a acabar em `.txt`
 
