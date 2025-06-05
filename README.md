@@ -42,3 +42,4 @@ Colocar a frente de cada letra a data exata ou a timestamp (fazer pequena pesqui
 
 1. O codigo tem de estar escrito no ficheiro `main.py`
 1. Utilizar só biblotecas nativas.
+1. O código tem de ser dinâmico, isto é mesmo que o nome mude têm de resultar sempre.
