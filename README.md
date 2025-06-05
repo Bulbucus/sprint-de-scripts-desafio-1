@@ -4,12 +4,13 @@ Neste desafio o formando tem de criar usando Python multiplos ficheiros em que t
 
 Exemplo:
 ```
-  - desafio
     - e.txt
     - m.txt
     - a.txt
     - n.txt
-    ...
+    - u.txt
+    - e.txt
+    - l.txt
 ```
 
 De seguida tem de escrever dentro do ficheiro o seu nome linha por linha em reverso mas a começar pela letra do ficheiro .
